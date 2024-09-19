@@ -1,1 +1,13 @@
 # python
+- python 설치
+- python version 확인
+- python vscode 사용법
+- 1장
+- 키워드, 연산자, 변수 자료형
+- type()
+- 파이썬에서의 변수 클래스의 객체 관계
+- 연산자, 연산자 오버라이딩
+- 2장
+- print, 함수 읽는법, sep, end
+- 3장
+- str class, indexing, slicing, len
